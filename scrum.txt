@@ -1,0 +1,14 @@
+Release backlog -user stories
+
+
+Sprints - short duration milestone
+        -subset of release backlog
+Burdown Chart - monitor sprint
+               - day by day measure of release
+              - calculate slope of the graph
+work remaining - 
+
+Daily scrum - information flow freely in any members
+Sprint reportractive - what went wrong
+
+Product backlog - 
